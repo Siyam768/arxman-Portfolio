@@ -72,9 +72,7 @@ const About = () => {
       </div>
 
       <p ref={paragraphRef} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-        I'm a skilled software developer with experience in  JavaScript, and expertise in frameworks 
-        like React, Node.js, and Three.js. I'm a quick learner and collaborate closely with clients to create efficient, 
-        scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+        Hi, I'm an IT Support Specialist with a passion for solving technical problems and helping people stay connected and productive. I specialize in troubleshooting hardware, software, and network issues, ensuring smooth day-to-day operations for users and teams. With a strong understanding of system administration and a calm, customer-focused approach, I aim to make technology easier and more reliable for everyone I support. I’m always eager to learn new tools and grow with evolving tech environments!
       </p>
 
       <div className="mt-20 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 justify-items-center gap-10">
