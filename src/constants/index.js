@@ -35,8 +35,8 @@ import {
 } from '../assets'
 
 
-// Import Tekisky separately
-import tekisky from "../assets/company/tekisky.png";
+// Import Discovery separately
+import Discovery from "../assets/company/transparent.png";
 
 
 export const navLinks = [
@@ -154,16 +154,14 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Full-Stack Developer",
-    company_name: "Tekisky",
-    icon: tekisky,
-    iconBg: "#383E56",
-    date: "Jan 2023 - present",
+    title: "IT Support Specialist",
+    company_name: "Discovery Internet",
+    icon: Discovery_Internet,
+    iconBg: "#FFFFFF",
+    date: "May 2025 - present",
     points: [
-      "Developing and maintaining web applications using MERN technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Hi, I'm an IT Support Specialist with a passion for solving technical problems and helping people stay connected and productive.",
+      "I specialize in troubleshooting hardware, software, and network issues, ensuring smooth day-to-day operations for users and teams.",
     ],
   },
 ];
@@ -171,26 +169,26 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Huzaif proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our mine, but Arman proved me wrong.",
     name: "MD Mustaqeem",
-    designation: "Ecommerce",
-    company: "QuickMart",
+    designation: "Ecommerce Business",
+    company: "Tekisky Mart",
     image: firstTestimonial,
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Huzaif does.",
+      "I've never met a It Specialist who truly cares about their clients' success like Arman does.",
     name: "Abdul Raheman",
     designation: "Ecommerce Business",
-    company: "justbuyz",
+    company: "GearXpert",
     image: secondTestimonial,
   },
   {
     testimonial:
-      "After Huzaif optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Arman optimized our website, our traffic increased by 75%. We can't thank them enough!",
     name: "James Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+    designation: "Ecommerce Business",
+    company: "GoGroove",
     image: thirdTestimonial,
   },
 ];
